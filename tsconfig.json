@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
+    "declaration": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "forceConsistentCasingInFileNames": false,
+    "incremental": true,
+    "module": "commonjs",
+    "noImplicitAny": false,
+    "outDir": "./dist",
+    "removeComments": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "strictBindCallApply": false,
+    "strictNullChecks": false,
+    "target": "ES2017"
+  },
+  "exclude": ["node_modules"]
+}
